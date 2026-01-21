@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer — building beautiful and usable web applications
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Internships-orange)](mailto:your-email@example.com) [![Learning](https://img.shields.io/badge/Learning-React%20%2F%20Node-blueviolet)]() [![Discord](https://img.shields.io/badge/College-CCT-informational)]()
 
 ---
-
+/
 ## 👨‍🎓 About me
 I’m a BCA (7th semester) student at CCT with a passion for building full-stack applications. I love turning ideas into responsive, user-friendly web apps and learning new technologies along the way. I enjoy working across the stack — from designing UIs to implementing server-side logic and databases.
 
